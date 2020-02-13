@@ -1,0 +1,33 @@
+.row{
+
+    h1{
+        text-align: center;
+    }
+    .col-12{
+    
+        .nav-tabs {
+            li {
+                width: 50%;
+            }
+        }
+
+        .tab-pane{
+            form{
+                margin: 1em 0 1em 0;
+                input{
+                    width: 80%;
+                }
+                
+            }
+             .buttons{
+             display: flex;
+
+            .btn-primary{
+             width: 5em;
+            }
+         }
+
+        }
+    }
+}
+

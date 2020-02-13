@@ -1,0 +1,14 @@
+.row h1 {
+  text-align: center; }
+.row .col-12 .nav-tabs li {
+  width: 50%; }
+.row .col-12 .tab-pane form {
+  margin: 1em 0 1em 0; }
+  .row .col-12 .tab-pane form input {
+    width: 80%; }
+.row .col-12 .tab-pane .buttons {
+  display: flex; }
+  .row .col-12 .tab-pane .buttons .btn-primary {
+    width: 5em; }
+
+/*# sourceMappingURL=style.css.map */
